@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="cs_CZ">
+<TS language="cs_CZ" version="2.0">
 <context>
     <name>design/standard/ezcssstyle</name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Save</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Upload</source>
-        <translation>Nahrát</translation>
+        <translation>Nahrát na server</translation>
     </message>
     <message>
         <source>Choose</source>
